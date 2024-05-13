@@ -1,15 +1,13 @@
 ---
 layout:       post
-title:        “挑战杯”
-author:       "yolo”
+title:        "挑战杯"
+author:       "yolo"
 header-style: text
 catalog:      true
 tags:
     - Web
     - JavaScript
 ---
-
-
 
 
 # 挑战杯：AI与5G协同增强制造与通信质控与系统优化
